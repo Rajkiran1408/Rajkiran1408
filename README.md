@@ -1,12 +1,12 @@
 # Hi 👋, I'm Rajkiran Ramesh
 
-### B.Tech Information Technology Student | Java Developer | AI/ML Enthusiast
+### B.Tech IT Student | Java Developer | Backend & AI Enthusiast
 
 🎓 Final-year **B.Tech Information Technology** student
-💻 Passionate about **Java, Backend Development & Problem Solving**
-🤖 Exploring **AI/ML and Generative AI**
-🌱 Currently strengthening my skills in **DSA, Spring Boot & Full-Stack Development**
-🚀 Interested in building practical projects that solve real-world problems
+💻 Skilled in **Java, SQL, Spring Boot & Backend Development**
+🤖 Interested in **AI/ML, Generative AI & Agentic AI**
+🧠 Actively practicing **Data Structures & Algorithms**
+🚀 Building practical projects and preparing for software development roles
 
 ---
 
@@ -43,12 +43,12 @@
 
 ### 📚 Library Management System
 
-**Java + MySQL**
+**Java | MySQL | JDBC**
 
-A database-driven library management application for managing books, users and library operations.
-
-**Key Concepts:**
-Java • OOP • JDBC • MySQL • CRUD Operations
+* Developed a CRUD-based library management system
+* Implemented book and user management
+* Connected Java application with MySQL using JDBC
+* Applied OOP concepts and database operations
 
 ---
 
@@ -56,10 +56,12 @@ Java • OOP • JDBC • MySQL • CRUD Operations
 
 **MERN Stack**
 
-A web application designed to simplify complaint registration and management through a centralized platform.
+* Developed a web application for registering and managing complaints
+* Implemented frontend and backend communication
+* Used MongoDB for storing application data
+* Built REST API-based functionality
 
-**Tech Stack:**
-MongoDB • Express.js • React • Node.js
+**Tech Stack:** MongoDB • Express.js • React • Node.js
 
 ---
 
@@ -68,6 +70,7 @@ MongoDB • Express.js • React • Node.js
 Exploring AI-powered applications and multi-agent systems using modern AI technologies.
 
 **Areas of Interest:**
+
 Generative AI • AI Agents • RAG • Multi-Agent Systems • n8n
 
 ---
@@ -76,13 +79,21 @@ Generative AI • AI Agents • RAG • Multi-Agent Systems • n8n
 
 ### IBM Cognos
 
-* Gained exposure to **IBM Cognos** and business intelligence concepts.
-* Worked with data visualization and analytics concepts.
+* Gained exposure to **IBM Cognos** and Business Intelligence concepts
+* Learned concepts related to data visualization and analytics
 
 ### Eagle Hitech
 
-* Explored **Artificial Intelligence** concepts and applications.
-* Worked on AI-oriented learning and project activities.
+* Explored **Artificial Intelligence** concepts and applications
+* Worked on AI-oriented learning and project activities
+
+---
+
+## 🏆 Hackathons & Activities
+
+* 🚀 Participated in technical hackathons and project development activities
+* 🤖 Worked on **Multi-Agent AI projects using n8n**
+* 💡 Developed solutions focused on real-world problems
 
 ---
 
@@ -110,6 +121,15 @@ Currently practicing **DSA and problem solving** for technical interviews.
 
 ---
 
+## 🎓 Education
+
+**B.Tech – Information Technology**
+**A.V.C College of Engineering**
+
+🎓 Final Year
+
+---
+
 ## 🎯 Current Goals
 
 * 🔹 Become a strong **Java Backend Developer**
@@ -123,22 +143,22 @@ Currently practicing **DSA and problem solving** for technical interviews.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkiran1408\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkiran1408\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rajkiran1408)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](YOUR_LEETCODE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajkiran-ramesh-527a96300)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/rajkiran1408/)
 
 ---
 
-### 💬 Quote
+⭐ Thanks for visiting my profile!
 
-> "Consistency is the key to turning knowledge into skill."
-
-⭐ **Thanks for visiting my profile!**
+📌 **Open to software development opportunities and collaborations.**
