@@ -143,9 +143,9 @@ Currently practicing **DSA and problem solving** for technical interviews.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajkiran1408\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajkiran1408\&layout=compact\&theme=tokyonight)
+!🔭 Building projects and improving my coding skills  
+🧠 Practicing DSA regularly  
+🚀 Exploring Java Backend Development and AI
 
 ---
 
